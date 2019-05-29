@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\protoc-2.6.0-win32>protoc -I=./input_proto --java_out=./output_generated ./input_proto/auth_service.proto
+
+
+C:\Users\Administrator\Desktop\protoc-2.6.0-win32>protoc -I=.\input_proto --java_out=.\output_generated .\input_proto\auth_service.proto .\input_proto\auth_model.proto
